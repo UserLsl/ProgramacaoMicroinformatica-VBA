@@ -11,4 +11,4 @@ INTEGRANTES
 
 
 
-Com o conhecimento necessário sobre a aplicação Excel e a linguagem Visual Basic for Application, tem-se por objetivo criar, codificar e desenvolver um aplicativo, contendo três planilhas (Movimentação de Produtos, Fornecedores e Produtos em Estoque). Pretende-se obter como resultado um formulário para o registro de movimentação de produtos, onde pode-se gerar um documento PDF e até mesmo um gráfico para análise de um produto especifico, onde pode se tornar um relatório.
+Com o conhecimento necessário sobre a aplicação Excel e a linguagem _*Visual Basic for Application*_, tem-se por objetivo criar, codificar e desenvolver um aplicativo, contendo três planilhas (Movimentação de Produtos, Fornecedores e Produtos em Estoque). Pretende-se obter como resultado um formulário para o registro de movimentação de produtos, onde pode-se gerar um documento PDF e até mesmo um gráfico para análise de um produto especifico, onde pode se tornar um relatório.
